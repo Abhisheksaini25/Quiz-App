@@ -1,0 +1,20 @@
+When was Python first released?,1991,1995,2000,2005,1991
+Who is the creator of Python?,James Gosling,Guido van Rossum,Dennis Ritchie,Bjarne Stroustrup,Guido van Rossum
+What is the file extension for Python files?,.py,.java,.class,.js,.py
+Which of these is not a Python data type?,int,float,list,char,char
+What does PEP stand for in Python?,Python Enhancement Proposal,Python Execution Process,Python Encrypted Program,Python Event Procedure,Python Enhancement Proposal
+Which company oversees Python?,Oracle,Microsoft,Google,Python Software Foundation,Python Software Foundation
+What is the latest major version of Python (as of 2023)?,Python 2,Python 3,Python 4,Python 5,Python 3
+Which keyword is used to define a function in Python?,func,function,def,declare,def
+What is a correct syntax to output 'Hello World' in Python?,print('Hello World'),echo 'Hello World',Console.WriteLine('Hello World'),printf('Hello World'),print('Hello World')
+Which of these is used to handle exceptions in Python?,try-except,if-else,for loop,while loop,try-except
+What type of programming language is Python?,Functional,Object-oriented,Procedural,All of the above,All of the above
+What is the default value of 'None' in Python?,Null,False,None,Zero,None
+Which of these is a mutable data type in Python?,tuple,int,list,str,list
+How do you start a comment in Python?,#,//,/*,--,#
+Which of these is a correct method to create a list in Python?,list(),List(),createList(),listNew(),list()
+How do you declare a variable in Python?,var x = 5,let x = 5,x = 5,declare x = 5,x = 5
+Which of the following is a Python framework for web development?,Django,React,Angular,Spring,Django
+What does 'len()' function do in Python?,Returns the length of a list or string,Calculates sum,Finds average,Returns the type,Returns the length of a list or string
+How do you create a dictionary in Python?,{'key': 'value'},dict(),Both,None,Both
+Which keyword is used to define a class in Python?,class,Class,def,define,class

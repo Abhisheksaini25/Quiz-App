@@ -1,0 +1,20 @@
+When was Kotlin launched?,2004,2016,2017,2018,2016
+Which company developed Kotlin?,Microsoft,JetBrains,Google,Oracle,JetBrains
+Is Kotlin statically or dynamically typed?,Statically typed,Dynamically typed,Both,Neither,Statically typed
+What is the extension of Kotlin files?,.kt,.java,.kotlin,.class,.kt
+Which language does Kotlin primarily interoperate with?,C++,Java,Python,Swift,Java
+Which platform is Kotlin mainly used for?,iOS,Windows,Android,Linux,Android
+What is the name of the tool Kotlin uses for managing dependencies?,Gradle,Maven,Ant,Make,Gradle
+What does 'val' represent in Kotlin?,Mutable variable,Immutable variable,Function,Class,Immutable variable
+Which of these is a Kotlin coroutine builder?,launch,async,run,suspend,launch
+Which keyword is used in Kotlin to declare a function?,def,fun,func,function,fun
+What is the primary programming paradigm of Kotlin?,Object-oriented,Functional,Both,Procedural,Both
+How do you declare a nullable type in Kotlin?,Type?,nullable<Type>,Type!,optional<Type>,Type?
+Which of the following is a higher-order function in Kotlin?,forEach,map,filter,All of the above,All of the above
+What is the main difference between 'var' and 'val' in Kotlin?,'var' is mutable and 'val' is immutable,'val' is mutable and 'var' is immutable,Both are immutable,Both are mutable,'var' is mutable and 'val' is immutable
+Which keyword is used to inherit a class in Kotlin?,inherit,extend,super,override,extend
+How can you create a singleton in Kotlin?,object,class,singleton,static,object
+What is the default visibility modifier in Kotlin?,public,private,protected,internal,public
+Which of these is a valid way to declare a read-only variable in Kotlin?,val x = 5,let x = 5,var x = 5,x = 5,val x = 5
+What is Kotlin's primary target JVM version?,JVM 6,JVM 7,JVM 8,JVM 9,JVM 8
+Which Kotlin feature allows working with asynchronous programming?,Lambdas,Coroutines,Generics,Null safety,Coroutines

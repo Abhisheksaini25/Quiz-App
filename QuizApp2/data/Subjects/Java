@@ -1,0 +1,20 @@
+When was Java first released?,1991,1995,2000,2005,1995
+Who is the creator of Java?,James Gosling,Guido van Rossum,Bjarne Stroustrup,Dennis Ritchie,James Gosling
+What is the file extension for Java files?,.java,.class,.jar,.js,.java
+Which of these is not a Java primitive data type?,int,float,string,char,string
+What does JVM stand for?,Java Variable Machine,Java Virtual Machine,Java Version Manager,Java Visual Machine,Java Virtual Machine
+Which company originally developed Java?,Oracle,Microsoft,Google,Sun Microsystems,Sun Microsystems
+What does JDK stand for?,Java Development Kit,Java Deployment Kit,Java Design Kit,Java Debug Kit,Java Development Kit
+Which keyword is used to inherit a class in Java?,inherit,extends,implements,override,extends
+Which method is the entry point of a Java application?,start(),main(),run(),init(),main()
+Which of these is used to handle exceptions in Java?,try-catch,if-else,for loop,while loop,try-catch
+What is Java primarily known as?,Functional language,Object-oriented language,Procedural language,Logic programming language,Object-oriented language
+Which of the following is not a valid access modifier in Java?,public,protected,internal,private,internal
+What does 'static' mean in Java?,not an instance,Can be inherited,Can be overridden,None of the above,not an instance
+Which of these is used for creating threads in Java?,Thread class,Runnable interface,Both,None of the above,Both
+Which package contains the core classes in Java?,java.awt,java.lang,java.util,java.io,java.lang
+How do you declare an array in Java?,int arr[],int arr,array int[],int[] array,int arr[]
+Which of these is not a feature of Java?,Platform-independent,Automatic memory management,Multiple inheritance of classes,Object-oriented,Multiple inheritance of classes
+Which version of Java introduced the 'lambda' feature?,Java 5,Java 7,Java 8,Java 9,Java 8
+What is the default value of a boolean in Java?,true,false,0,1,false
+Which keyword is used to prevent inheritance in Java?,sealed,final,static,const,final
