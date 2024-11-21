@@ -46,7 +46,7 @@ def bringQuestions(name):  # getting question for the quiz
     qys = cur.fetchall()
     return qys
 
-def addques():  #will be used to add one question at a time
+def addques():  #used to add one question at a time
     lang = input("Enter your question's language: ")
     if lang.lower() in ("python","java","kotlin"):
         q = input("Enter your question")
