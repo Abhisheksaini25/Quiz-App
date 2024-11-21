@@ -53,16 +53,6 @@ def strtolist(s):  #returns list of list
         slist.append(i.split(','))
     return slist
 
-'''def strtodict(s):  #returns dict
-    sls = s.split('\n')
-    slist = []
-    for i in sls:
-        slist.append(i.split(','))
-    sdict = {}
-    for i in sdict:
-        sdict[i[0]] = [i[1],i[2],i[3]]
-    return sdict'''
-
 # Getting information from files
 def getuser():  #getting all the users registered
     with open('data/users', 'r') as userfile:
