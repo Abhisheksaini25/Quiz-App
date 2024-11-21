@@ -165,7 +165,7 @@ def langChoose():  # Giving choice to pick language, show marks and history, log
     elif choice == "6":
         main()
     else:
-        print("C++ no available this year")
+        print("Invalid")
         langChoose()
 
 def lang(name,qys):  # calling functions to execute the quiz of the choosen language
